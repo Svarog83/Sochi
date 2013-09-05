@@ -1,0 +1,4 @@
+sd_sochi:
+    resource: "@SDSochiBundle/Resources/config/routing.yml"
+    prefix:   /
+

@@ -1,0 +1,7 @@
+parameters:
+#    sd_sochi.example.class: SD\SochiBundle\Example
+
+services:
+#    sd_sochi.example:
+#        class: %sd_sochi.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
